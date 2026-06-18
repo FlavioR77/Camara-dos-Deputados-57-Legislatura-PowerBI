@@ -1,5 +1,9 @@
 # Painel Analítico — Câmara dos Deputados (57ª Legislatura)
 
+🔗 **Repositório:** [github.com/FlavioR77/Camara-dos-Deputados-57-Legislatura-PowerBI](https://github.com/FlavioR77/Camara-dos-Deputados-57-Legislatura-PowerBI)
+
+📊 **Dashboard publicado:** [Acessar o relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWQ0MGVjOWQtNGNlOC00ZGIzLTk5MzEtMGVkZjE3NThhMmI1IiwidCI6IjgyNWMwY2JlLWY0YjQtNGQzNi1iNzQwLTcxOGE2Mzc1NDc2ZCJ9)
+
 Relatório em Power BI para exploração de gastos parlamentares (CEAP/Cotas Parlamentares) e atividade legislativa (proposições) dos deputados federais da 57ª Legislatura (2023–2026), com base nos dados abertos da Câmara dos Deputados.
 
 > 📅 **Período coberto:** janeiro de 2023 a maio de 2026.
